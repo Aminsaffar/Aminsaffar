@@ -25,10 +25,15 @@ I'm a Computer Engineer with a focus on Artificial Intelligence and Robotics. We
 
 - 📞 Phone: [+98 936 828 9312](tel:+989368289312)
 - ✉️ Email: [aminakhavan75@gmail.com](mailto:aminakhavan75@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/amin-akhavan](https://www.linkedin.com/in/amin-akhavan)
-- 🌐 GitHub: [github.com/Aminsaffar](https://github.com/Aminsaffar)
-- 🌐 Stack Overflow: [stackoverflow.com/users/7032512/amin-saffar](https://stackoverflow.com/users/7032512/amin-saffar)
-- 🌐 Website: [amins.ir](https://amins.ir)
+
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=link&logoColor=white)](https://amins.ir)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7032512/amin-saffar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-akhavan)
+<!--
+:)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aminsaffar)
+-->
 
 ## Interests
 
@@ -59,9 +64,9 @@ I'm a Computer Engineer with a focus on Artificial Intelligence and Robotics. We
 - Microprocessor Programming (STM32 & Arduino), Can (Controller Area Network), Canopen, Ethercat, Twincat, Simulink
 
 ### Languages
-- English (Overall IELTS score: 6)
-- Persian (Native)
-- Deutsch (A2 Level)
+- English
+- Persian
+- Deutsch
 
 ## Personal
 
